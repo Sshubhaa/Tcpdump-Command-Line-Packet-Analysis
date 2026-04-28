@@ -1,3 +1,6 @@
+## About This Project
+This project is part of my hands-on cybersecurity learning journey as I transition into the field.
+
 # Tcpdump-Command-Line-Packet-Analysis
 This lab introduced tcpdump as a command-line tool for capturing and analysing network traffic.
 
